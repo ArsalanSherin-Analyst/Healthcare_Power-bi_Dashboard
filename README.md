@@ -24,9 +24,9 @@ Monthly wait list trend analysis |
 Specialty-wise patient demand visualization | 
 KPI indicators for quick insights | 
 
- **Dataset**
+ **Dataset**:
 The dataset used in this project contains healthcare patient wait list information including inpatient and outpatient records across different medical specialties.
 
-**Dashboard Preview**
+**Dashboard Preview**:
 https://github.com/ArsalanSherin-Analyst/Healthcare_Power-bi_Dashboard/blob/main/Dashboard%20Page%201.png
 
