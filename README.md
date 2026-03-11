@@ -18,11 +18,14 @@ DAX (Data Analysis Expressions) – Creating calculated measures
 Data Modeling – Building relationships between datasets
 
 📈 **Dashboard Features**
-Interactive filters and slicers
-Inpatient vs Outpatient comparison
-Monthly wait list trend analysis
-Specialty-wise patient demand visualization
-KPI indicators for quick insights
+Interactive filters and slicers | 
+Inpatient vs Outpatient comparison | 
+Monthly wait list trend analysis | 
+Specialty-wise patient demand visualization | 
+KPI indicators for quick insights | 
+
+📂 **Dataset**
+The dataset used in this project contains healthcare patient wait list information including inpatient and outpatient records across different medical specialties.
 
 📷 **Dashboard Preview**
 (Add screenshots of your dashboard here)
